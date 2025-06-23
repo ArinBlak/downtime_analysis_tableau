@@ -14,7 +14,7 @@ This project uses Tableau to visualize **machine breakdown patterns** in differe
 
 ## 📁 Project Files:
 - `downtime_analysis.twbx` – Tableau packaged workbook
-- `factory_downtime_data.csv` – Sample data used in the dashboard
+- `mock_data.json` – Sample data used in the dashboard
 - `dashboard_preview.png` – Image of the dashboard
   
 ## 📌 Purpose:
